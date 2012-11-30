@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Loewenstark_Scripts>
+            <version>0.0.0.1</version>
+        </Loewenstark_Scripts>
+    </modules>
+    <frontend>
+        <translate>
+            <modules>
+                <Loewenstark_Scripts>
+                    <files>
+                        <default>Loewenstark_Scripts.csv</default>
+                    </files>
+                </Loewenstark_Scripts>
+            </modules>
+        </translate>
+    </frontend>
+    <global>
+        <blocks>
+            <loe_scripts>
+                <class>Loewenstark_Scripts_Block</class>
+            </loe_scripts>
+        </blocks>
+    </global>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Loewenstark_Scripts>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Loewenstark_Scripts>
+    </modules>
+</config>
