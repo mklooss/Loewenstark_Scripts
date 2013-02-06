@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Loewenstark_Scripts>
-            <active>true</active>
+            <active>community</active>
             <codePool>local</codePool>
         </Loewenstark_Scripts>
     </modules>

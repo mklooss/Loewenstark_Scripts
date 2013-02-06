@@ -1,7 +1,7 @@
 <?php
 
 class Loewenstark_Scripts_Block_Script
-extends Mage_Page_Block_Html_Head
+extends Loewenstark_Scripts_Block_Abstract
 {
     
     protected $_ext_url = array();
